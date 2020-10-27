@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mod821/cs207test.svg?branch=master)](https://travis-ci.org/mod821/cs207test.svg?branch=master)
+[![Build Status](https://travis-ci.org/mod821/cs107test.svg?branch=master)](https://travis-ci.org/mod821/cs107test.svg?branch=master)
 
-[![Coverage Status](https://codecov.io/gh/mod821/cs207test/branch/master/graph/badge.svg)](https://codecov.io/gh/mod821/cs207test)
+[![codecov](https://codecov.io/gh/mod821/cs107test/branch/master/graph/badge.svg?token=N5QZfxQCrp)](https://codecov.io/gh/mod821/cs107test)
 
